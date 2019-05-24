@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<listPerson>
+    <person>
+        <id>1</id>
+        <name>Theresa</name>
+        <surname>May</surname>
+    </person>
+    <person>
+        <id>2</id>
+        <name>Bill</name>
+        <surname>Clinton</surname>
+    </person>
+</listPerson>
